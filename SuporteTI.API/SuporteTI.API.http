@@ -1,0 +1,6 @@
+@SuporteTI.API_HostAddress = http://localhost:5290
+
+GET {{SuporteTI.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
